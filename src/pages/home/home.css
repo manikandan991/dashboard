@@ -1,9 +1,13 @@
 .home{
     flex: 5;
-    
+    background-color: rgb(59, 59, 61);
 }
 
 .homeWidgets{
     display: flex;
     margin: 5px;
+}
+
+.header{
+    text-align: center;
 }

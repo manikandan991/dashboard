@@ -18,6 +18,11 @@
   .widgetLgTh{
     text-align: left;
   }
+
+  .widgetNoData{
+    text-align: center;
+    font-weight: 600;
+  }
   
   .widgetLgUser{
     display: flex;
